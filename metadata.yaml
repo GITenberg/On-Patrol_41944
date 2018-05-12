@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36858'
     url: http://www.gutenberg.org/2009/agents/36858
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41944#On-Patrol
 gutenberg_issued: '2013-01-29'
 gutenberg_type: Text
 identifiers:
